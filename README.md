@@ -61,7 +61,7 @@
 
 ## 原型
 
-* [原型文档](https://gitee.com/NFUNM110/smart_museum_project_prd/pages)
+* [原型文档](http://nfunm110.gitee.io/smart_museum_project_prd/#g=1)
 
 ![推荐展馆](https://images.gitee.com/uploads/images/2019/1215/185734_e06fd978_1648195.png "72cda24e09301cbab16f5b6c7ca5d68.png")
 
